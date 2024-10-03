@@ -3,3 +3,12 @@
 body { font: 12pt Arial; }
 h1, h2, h3 { font-family: 'Pacifico' ,cursive; font-weight: bolder ; font-size: 55px;}
 button { font-size: 12pt; padding: 30px; }
+
+.header{
+    padding: 20px;
+}
+
+.links{
+    display: inline;
+    margin-left: 480px;
+}
