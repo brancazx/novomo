@@ -12,3 +12,20 @@ button { font-size: 12pt; padding: 30px; }
     display: inline;
     margin-left: 480px;
 }
+
+.principal{
+    width: 100%;
+    display: flex;
+}
+
+  .wrapper {
+    width: 100%;
+    padding: 20px;
+ 
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+.card{
+    padding: 10px;
+}
