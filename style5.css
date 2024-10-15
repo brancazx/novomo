@@ -128,3 +128,22 @@ button{
     padding: 20px;
     margin-left: 40px;
 }
+
+.carousel-indicators{
+    width: 350px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.principal{
+    width: 100%;
+    display: flex;
+}
+
+  .wrapper {
+    width: 50%;
+    padding: 5px;
+ 
+    margin-left: 0;
+    margin-top: 10px;
+  }
