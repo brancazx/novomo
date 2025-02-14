@@ -136,7 +136,8 @@ button{
 }
 
 .principal{
-    width: 100%;
+    width: 50%;
+    padding: 5px;
 }
 
   .wrapper {
